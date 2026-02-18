@@ -49,6 +49,10 @@ Purple
 ```lua
   redzlib:SetTheme("Purple")
 ```
+White
+```lua
+  redzlib:SetTheme("White")
+```
 ## Start tab
 ```lua
 Window:SelectTab(Tab1)
